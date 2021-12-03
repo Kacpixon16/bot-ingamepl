@@ -4,8 +4,8 @@
   "description": "Discord.js bot for fivem server.",
   "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
-    "dev:watch": "nodemon src/index.js",
+    "dev": "index.js",
+    "dev:watch": "index.js",
     "start": "index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
